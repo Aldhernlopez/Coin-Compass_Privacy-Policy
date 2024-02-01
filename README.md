@@ -1,4 +1,4 @@
-# CoinCompass-PrivacyPolicy
+# Coin Compass - Privacy Policy
 Tyro Tech respects your privacy and is committed to protecting any personal information you may provide while using our app.
 
 ## Information Collection and Use
